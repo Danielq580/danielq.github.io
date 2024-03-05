@@ -1,2 +1,2 @@
-# https://www.danielq.github.io
+# https://www.daniel.github.io
 710
